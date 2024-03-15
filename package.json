@@ -1,0 +1,24 @@
+{
+  "name": "mikeyswap",
+  "version": "1.1.5",
+  "description": "swap in EVM easy by click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaenalalamsyah1/mikeyswap"
+  },
+  "keywords": [
+    "swap",
+    "defi",
+    "dapps"
+  ],
+  "author": "mikeyzhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaenalalamsyah1/mikeyswap/issues"
+  },
+  "homepage": "https://github.com/zaenalalamsyah1/mikeyswap#readme"
+}
