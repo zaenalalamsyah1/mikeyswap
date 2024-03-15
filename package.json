@@ -1,6 +1,6 @@
 {
   "name": "mikeyswap",
-  "version": "1.1.5",
+  "version": "1.1.4",
   "description": "swap in EVM easy by click",
   "main": "index.js",
   "scripts": {
